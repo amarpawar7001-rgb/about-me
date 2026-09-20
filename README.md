@@ -5,6 +5,6 @@
 - Git hub 
 - API documentation
 
-[ My LinkedIn ]( https:// LinkedIn.com/in/yourprofile)
+[ My LinkedIn ](https://LinkedIn.com/in/yourprofile)
 
-I am practicing 
+I am practicing Markdown syntax 
