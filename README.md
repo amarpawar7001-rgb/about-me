@@ -7,4 +7,4 @@
 
 [ My LinkedIn ] ( https:// LinkedIn.com/in/yourprofile)
 
-I am practicing ‘ markdown ‘ syntax  today 
+I am practicing 
